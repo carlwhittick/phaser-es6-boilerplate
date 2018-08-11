@@ -20,7 +20,7 @@ Codepen example: http://codepen.io/belohlavek/full/aORJVL
 
 ✔ Production ([UglifyJS](https://github.com/mishoo/UglifyJS2)) and Development ([Sourcemaps](https://developer.chrome.com/devtools/docs/javascript-debugging#source-maps)) builds.
 
-✔ Did I say ES6? Well.. some ES7 too! ([See Experimental features](https://babeljs.io/docs/usage/experimental/)).
+✔ Did I say ES6? Well.. some ES7 too! ([See Experimental features](https://babeljs.io/docs/en/next/index.html)).
 
 ## Why?
 
